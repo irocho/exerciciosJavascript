@@ -1,9 +1,6 @@
 /* 
 	Código en JavaScript
-	Nome do ficheiro: ex5.js
+	Nome do ficheiro: escripito.js
 	Usado: 
 */
 
-/*	
-	
-*/
