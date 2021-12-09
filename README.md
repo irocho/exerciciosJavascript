@@ -1,4 +1,6 @@
-# exerciciosJavascript
-código para ir programando en JavaScript
+<img src="https://irocho.files.wordpress.com/2012/10/rocho-950x264-e1350378609633.png">
 
-(empregado en AppWeb de SMR no curso 2018-19)
+# Repositorio de exercicios de Javascript
+Código para ir programando en JavaScript
+
+(empregado en AppWeb de SMR)
