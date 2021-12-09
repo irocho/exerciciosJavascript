@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript  obtido de https://github.com/irocho/exerciciosJavascript/ex4_switch-case/
 	Nome do ficheiro: ex4.js
 	Usado: switch(), case, break, default
 */
