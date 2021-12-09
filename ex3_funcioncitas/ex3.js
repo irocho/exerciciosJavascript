@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript  obtido de https://github.com/irocho/exerciciosJavascript/ex3_funcioncitas/
 	Nome do ficheiro: ex3.js
 	Usado: function
 */
