@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript  obtido de https://github.com/irocho/exerciciosJavascript/ex6_eventos/
 	Nome do ficheiro: ex6.js
 	Usados os eventos: onclick, onload, onmouseover
 */
