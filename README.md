@@ -3,4 +3,4 @@
 # Repositorio de exercicios de Javascript
 Código para ir programando en JavaScript
 
-(empregado en AppWeb de SMR)
+_empregado en AppWeb de SMR_
