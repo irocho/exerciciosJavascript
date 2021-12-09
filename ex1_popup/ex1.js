@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript obtido de https://github.com/irocho/exerciciosJavascript/ex1_popup/
 	Nome do ficheiro: ex1.js
 	Usado: prompt(), alert(),document.write(), confirm(), if-else
 */
