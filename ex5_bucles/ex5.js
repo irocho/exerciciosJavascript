@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript  obtido de https://github.com/irocho/exerciciosJavascript/ex5_bucles/
 	Nome do ficheiro: ex5.js
 	Usado: for, while
 */
