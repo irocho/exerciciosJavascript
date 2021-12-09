@@ -1,5 +1,5 @@
 /* 
-	Código en JavaScript
+	Código en JavaScript obtido de https://github.com/irocho/exerciciosJavascript/ex2_mate/
 	Nome do ficheiro: ex2.js
 	Usado: parseInt(), Math.random(), Math.round()
 */
