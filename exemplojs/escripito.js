@@ -1,6 +1,6 @@
 /* 
-	Código en JavaScript
+	Exemplo ficheiro en JavaScript
 	Nome do ficheiro: escripito.js
-	Usado: 
+	 
 */
 
