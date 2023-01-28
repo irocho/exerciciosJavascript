@@ -21,6 +21,6 @@ Despois descargade ou clonade este repositorio para írmonos analizando e resolv
 ##  Os recursos suxeridos
 
  + O teu propio repositorio para ter o teu traballo en GitHub, lembra deixar no teu blog a túa ligazón.
- + Visual Studio Code coas extensións que escollas, p.e. _LiveServer, ESLint, ..._
+ + Visual Studio Code coas extensións que escollas, p.e. _LiveServer, ESLint, BabelJavaScript..._
 
 ## Happy coding!
